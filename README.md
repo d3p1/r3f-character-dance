@@ -10,7 +10,9 @@
 
 ## Introduction
 
-Just studying and practicing my [React](https://react.dev/) and [R3F](https://r3f.docs.pmnd.rs/) skills, implementing a character dance effect.
+Just studying and practicing my [React](https://react.dev/) and [R3F](https://r3f.docs.pmnd.rs/) skills, implementing a character dance effect inspired in this excellent tutorial of [Wawa Sensei](https://www.youtube.com/@WawaSensei):
+
+[![React Three Fiber tutorial - How to animate 3D models](https://img.youtube.com/vi/mdj7Z3PCxRg/maxresdefault.jpg)](https://www.youtube.com/watch?v=mdj7Z3PCxRg)
 
 ## Usage
 
