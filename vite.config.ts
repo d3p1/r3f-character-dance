@@ -6,6 +6,7 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
   root: 'src/',
   base: '/r3f-character-dance/',
+  publicDir: '../public/',
   server: {
     host: true,
   },
